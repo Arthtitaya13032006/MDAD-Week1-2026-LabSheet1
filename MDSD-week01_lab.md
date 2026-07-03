@@ -510,7 +510,7 @@ Windows (PowerShell):
   "User"
 )
 # แทนที่ path ด้วย path จริงของเครื่องคุณ
-# ปิด Terminal แล้วเปิดใหม่
+# ปิด vs code แล้วเปิดใหม่
 ```
 
 macOS/Linux:
@@ -582,7 +582,7 @@ $p = [System.Environment]::GetEnvironmentVariable("Path", "User")
   "User"
 )
 
-# 5. ปิด Terminal แล้วเปิดใหม่ จากนั้นทดสอบ
+# 5. ปิด vs code แล้วเปิดใหม่ จากนั้นทดสอบ
 sdkmanager --version
 # ควรแสดงตัวเลข version เช่น 12.0
 ```
