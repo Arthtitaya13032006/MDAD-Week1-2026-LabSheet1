@@ -1268,7 +1268,7 @@ class ProfilePage extends StatelessWidget {
 
 ### ขั้นตอนที่ 3: สร้าง API Key
 
-1. ใน Google AI Studio คลิก **"Get API Key"** (เมนูด้านซ้าย)
+1. ใน Google AI Studio คลิก **"Get API Key"** (เมนูด้านซ้ายล่าง ที่เป็นรูปกุญแจ)
 2. คลิก **"Create API Key"**
 3. เลือก **"Create API key in new project"**
 4. **คัดลอก API Key และเก็บไว้อย่างปลอดภัย**
