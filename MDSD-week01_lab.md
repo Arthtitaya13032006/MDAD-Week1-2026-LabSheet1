@@ -1562,14 +1562,8 @@ flutter run
 
 **Widget Tree ที่วาด:**
 
-```
-(วาด Widget Tree ของแอปที่สร้างด้วยมือ)
+<img width="1367" height="672" alt="image" src="https://github.com/user-attachments/assets/eaebbbc6-f1fb-4430-9491-8fab96fd6cb1" />
 
-MaterialApp
-└── ?
-    └── ?
-        └── ...
-```
 
 ### 3.3 การเปรียบเทียบ Hot Reload vs Hot Restart
 
