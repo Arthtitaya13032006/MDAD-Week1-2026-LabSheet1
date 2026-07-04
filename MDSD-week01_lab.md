@@ -1544,10 +1544,7 @@ flutter run
 
 ### 3.1 ผลการติดตั้ง Flutter
 
-
-flutter doctor output:
-
-  <img width="931" height="353" alt="image" src="https://github.com/user-attachments/assets/78902265-18be-44d8-a873-e8498c7a4d06" />
+<img width="931" height="353" alt="image" src="https://github.com/user-attachments/assets/78902265-18be-44d8-a873-e8498c7a4d06" />
 
 Flutter Version: 3.44.4
 Dart Version: 3.12.2
